@@ -1,0 +1,157 @@
+{"timestamp":"00:00:00.578","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:05.594","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/profile/profile.jpg\" 404"}
+{"timestamp":"00:00:05.740","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:15.684","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:15.688","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/profile/profile.jpg\" 404"}
+{"timestamp":"00:00:24.715","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/profile/profile.jpg\" 404"}
+{"timestamp":"00:07:09.760","source":"Server","level":"LOG","message":"✓ Compiled in 347ms"}
+{"timestamp":"00:07:26.609","source":"Server","level":"LOG","message":"✓ Compiled in 175ms"}
+{"timestamp":"00:07:40.542","source":"Server","level":"LOG","message":"✓ Compiled in 30ms"}
+{"timestamp":"00:20:17.682","source":"Server","level":"LOG","message":"✓ Compiled in 225ms"}
+{"timestamp":"00:20:37.224","source":"Server","level":"LOG","message":"✓ Compiled in 192ms"}
+{"timestamp":"00:23:18.115","source":"Server","level":"LOG","message":"✓ Compiled in 206ms"}
+{"timestamp":"00:26:00.348","source":"Server","level":"LOG","message":"✓ Compiled in 248ms"}
+{"timestamp":"00:26:31.218","source":"Server","level":"LOG","message":"✓ Compiled in 157ms"}
+{"timestamp":"00:27:28.957","source":"Server","level":"LOG","message":"✓ Compiled in 261ms"}
+{"timestamp":"00:31:54.458","source":"Server","level":"LOG","message":"✓ Compiled in 108ms"}
+{"timestamp":"00:43:03.238","source":"Server","level":"LOG","message":"✓ Compiled in 404ms"}
+{"timestamp":"00:43:32.326","source":"Server","level":"LOG","message":"✓ Compiled in 93ms"}
+{"timestamp":"00:44:42.088","source":"Server","level":"LOG","message":"✓ Compiled in 78ms"}
+{"timestamp":"00:45:45.438","source":"Server","level":"LOG","message":"✓ Compiled in 75ms"}
+{"timestamp":"00:48:53.489","source":"Server","level":"LOG","message":"✓ Compiled in 199ms"}
+{"timestamp":"00:50:08.393","source":"Server","level":"LOG","message":"✓ Compiled in 125ms"}
+{"timestamp":"01:00:19.695","source":"Server","level":"LOG","message":"✓ Compiled in 175ms"}
+{"timestamp":"01:00:34.312","source":"Server","level":"LOG","message":"✓ Compiled in 102ms"}
+{"timestamp":"01:00:34.664","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/profile/p3.png\" 404"}
+{"timestamp":"01:02:32.234","source":"Server","level":"LOG","message":"✓ Compiled in 117ms"}
+{"timestamp":"01:03:10.169","source":"Server","level":"LOG","message":"✓ Compiled in 27ms"}
+{"timestamp":"01:03:18.681","source":"Server","level":"LOG","message":"✓ Compiled in 31ms"}
+{"timestamp":"17:55:07.639","source":"Server","level":"LOG","message":"✓ Compiled in 127ms"}
+{"timestamp":"17:55:16.726","source":"Server","level":"LOG","message":"✓ Compiled in 22ms"}
+{"timestamp":"17:55:27.840","source":"Server","level":"LOG","message":"✓ Compiled in 25ms"}
+{"timestamp":"17:58:08.577","source":"Server","level":"LOG","message":"✓ Compiled in 173ms"}
+{"timestamp":"18:00:06.814","source":"Server","level":"LOG","message":"✓ Compiled in 110ms"}
+{"timestamp":"18:00:23.028","source":"Server","level":"LOG","message":"✓ Compiled in 107ms"}
+{"timestamp":"18:01:10.754","source":"Server","level":"LOG","message":"✓ Compiled in 79ms"}
+{"timestamp":"18:03:14.187","source":"Server","level":"LOG","message":"✓ Compiled in 507ms"}
+{"timestamp":"18:06:44.858","source":"Server","level":"LOG","message":"✓ Compiled in 92ms"}
+{"timestamp":"18:07:20.024","source":"Server","level":"LOG","message":"✓ Compiled in 20ms"}
+{"timestamp":"18:08:26.740","source":"Server","level":"LOG","message":"✓ Compiled in 160ms"}
+{"timestamp":"18:08:27.041","source":"Server","level":"ERROR","message":"⨯ Error: The default export is not a React Component in \"/page\""}
+{"timestamp":"18:08:27.044","source":"Server","level":"ERROR","message":"⨯ Error: The default export is not a React Component in \"/page\""}
+{"timestamp":"18:08:27.459","source":"Server","level":"ERROR","message":"⨯ Error: The default export is not a React Component in \"/page\""}
+{"timestamp":"18:08:27.461","source":"Server","level":"ERROR","message":"⨯ Error: The default export is not a React Component in \"/page\""}
+{"timestamp":"18:08:27.762","source":"Browser","level":"ERROR","message":"Uncaught Error: The default export is not a React Component in \"/page\""}
+{"timestamp":"18:08:27.762","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: The default export is not a React Component in \\\"/page\\\"\\u001b[39m\""}
+{"timestamp":"18:08:39.469","source":"Server","level":"LOG","message":"✓ Compiled in 84ms"}
+{"timestamp":"18:17:03.467","source":"Server","level":"LOG","message":"✓ Compiled in 121ms"}
+{"timestamp":"18:17:06.608","source":"Server","level":"LOG","message":"✓ Compiled in 58ms"}
+{"timestamp":"18:18:03.251","source":"Server","level":"LOG","message":"✓ Compiled in 32ms"}
+{"timestamp":"18:18:32.255","source":"Server","level":"LOG","message":"✓ Compiled in 87ms"}
+{"timestamp":"18:26:04.263","source":"Server","level":"LOG","message":"✓ Compiled in 145ms"}
+{"timestamp":"18:26:06.691","source":"Server","level":"LOG","message":"✓ Compiled in 148ms"}
+{"timestamp":"18:30:03.792","source":"Server","level":"LOG","message":"✓ Compiled in 172ms"}
+{"timestamp":"18:30:06.647","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-1.png\" 404"}
+{"timestamp":"18:30:06.650","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-2.png\" 404"}
+{"timestamp":"18:30:06.656","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-3.png\" 404"}
+{"timestamp":"18:30:08.212","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-2.png\" 404"}
+{"timestamp":"18:30:08.218","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-1.png\" 404"}
+{"timestamp":"18:30:08.222","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-3.png\" 404"}
+{"timestamp":"18:30:40.601","source":"Server","level":"LOG","message":"✓ Compiled in 91ms"}
+{"timestamp":"18:30:40.778","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/public/projects/proje-2.png\" 404"}
+{"timestamp":"18:30:45.007","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-1.png\" 404"}
+{"timestamp":"18:30:45.009","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/public/projects/proje-2.png\" 404"}
+{"timestamp":"18:30:45.010","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-3.png\" 404"}
+{"timestamp":"18:32:33.007","source":"Server","level":"LOG","message":"✓ Compiled in 23ms"}
+{"timestamp":"18:32:39.678","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-1.png\" 404"}
+{"timestamp":"18:32:39.680","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/public/projects/proje-2.png\" 404"}
+{"timestamp":"18:32:39.681","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-3.png\" 404"}
+{"timestamp":"18:32:44.401","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/public/projects/proje-2.png\" 404"}
+{"timestamp":"18:32:44.406","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-1.png\" 404"}
+{"timestamp":"18:32:44.425","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-3.png\" 404"}
+{"timestamp":"18:33:00.965","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/public/projects/proje-2.png\" 404"}
+{"timestamp":"18:33:00.984","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-1.png\" 404"}
+{"timestamp":"18:33:00.987","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-3.png\" 404"}
+{"timestamp":"18:35:00.105","source":"Server","level":"LOG","message":"✓ Compiled in 118ms"}
+{"timestamp":"18:35:00.448","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/images/proje-2.png\" 404"}
+{"timestamp":"18:35:02.952","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/images/proje-2.png\" 404"}
+{"timestamp":"18:35:02.954","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-1.png\" 404"}
+{"timestamp":"18:35:02.958","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/projects/proje-3.png\" 404"}
+{"timestamp":"18:35:24.540","source":"Server","level":"LOG","message":"✓ Compiled in 25ms"}
+{"timestamp":"18:35:24.849","source":"Browser","level":"WARN","message":"Image with src \"/images/projects/proje-2.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"}
+{"timestamp":"18:35:24.952","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/projects/proje-2.png\\\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\\\"eager\\\"` property if this image is above the fold.\\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading\\u001b[39m\""}
+{"timestamp":"18:35:40.329","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"18:56:44.786","source":"Server","level":"LOG","message":"✓ Compiled in 202ms"}
+{"timestamp":"18:56:47.193","source":"Server","level":"LOG","message":"✓ Compiled in 58ms"}
+{"timestamp":"18:56:53.826","source":"Browser","level":"WARN","message":"Image with src \"/images/projects/proje-2.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"}
+{"timestamp":"18:56:53.826","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/projects/proje-2.png\\\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\\\"eager\\\"` property if this image is above the fold.\\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading\\u001b[39m\""}
+{"timestamp":"18:59:41.640","source":"Server","level":"LOG","message":"✓ Compiled in 127ms"}
+{"timestamp":"19:01:12.609","source":"Server","level":"LOG","message":"✓ Compiled in 91ms"}
+{"timestamp":"19:02:31.228","source":"Server","level":"LOG","message":"✓ Compiled in 97ms"}
+{"timestamp":"19:02:38.191","source":"Browser","level":"WARN","message":"Image with src \"/images/projects/proje-2.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"}
+{"timestamp":"19:02:38.191","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/projects/proje-2.png\\\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\\\"eager\\\"` property if this image is above the fold.\\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading\\u001b[39m\""}
+{"timestamp":"19:02:48.133","source":"Server","level":"LOG","message":"✓ Compiled in 34ms"}
+{"timestamp":"19:02:56.562","source":"Browser","level":"WARN","message":"Image with src \"/images/projects/proje-3.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"}
+{"timestamp":"19:02:56.562","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/projects/proje-3.png\\\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\\\"eager\\\"` property if this image is above the fold.\\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading\\u001b[39m\""}
+{"timestamp":"19:03:32.755","source":"Server","level":"LOG","message":"✓ Compiled in 38ms"}
+{"timestamp":"19:03:38.432","source":"Server","level":"LOG","message":"✓ Compiled in 18ms"}
+{"timestamp":"19:03:43.072","source":"Server","level":"LOG","message":"✓ Compiled in 16ms"}
+{"timestamp":"19:04:06.463","source":"Server","level":"LOG","message":"✓ Compiled in 33ms"}
+{"timestamp":"19:04:21.681","source":"Server","level":"LOG","message":"✓ Compiled in 27ms"}
+{"timestamp":"19:07:43.724","source":"Server","level":"LOG","message":"✓ Compiled in 131ms"}
+{"timestamp":"19:08:56.229","source":"Server","level":"LOG","message":"✓ Compiled in 131ms"}
+{"timestamp":"19:09:11.763","source":"Server","level":"LOG","message":"✓ Compiled in 82ms"}
+{"timestamp":"19:09:47.748","source":"Server","level":"LOG","message":"✓ Compiled in 83ms"}
+{"timestamp":"19:10:44.068","source":"Server","level":"LOG","message":"✓ Compiled in 93ms"}
+{"timestamp":"19:11:16.506","source":"Server","level":"LOG","message":"✓ Compiled in 88ms"}
+{"timestamp":"19:11:44.725","source":"Server","level":"LOG","message":"✓ Compiled in 33ms"}
+{"timestamp":"19:12:10.811","source":"Server","level":"LOG","message":"✓ Compiled in 22ms"}
+{"timestamp":"19:12:19.417","source":"Server","level":"LOG","message":"✓ Compiled in 20ms"}
+{"timestamp":"19:18:03.513","source":"Server","level":"LOG","message":"✓ Compiled in 173ms"}
+{"timestamp":"19:18:41.850","source":"Server","level":"LOG","message":"✓ Compiled in 21ms"}
+{"timestamp":"19:19:05.080","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"19:20:16.221","source":"Server","level":"LOG","message":"✓ Compiled in 26ms"}
+{"timestamp":"19:21:43.287","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"19:22:22.039","source":"Server","level":"LOG","message":"✓ Compiled in 23ms"}
+{"timestamp":"19:23:06.511","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"19:23:33.832","source":"Server","level":"LOG","message":"✓ Compiled in 22ms"}
+{"timestamp":"19:28:14.355","source":"Server","level":"LOG","message":"✓ Compiled in 379ms"}
+{"timestamp":"19:30:11.385","source":"Server","level":"LOG","message":"✓ Compiled in 311ms"}
+{"timestamp":"19:30:30.249","source":"Server","level":"LOG","message":"✓ Compiled in 101ms"}
+{"timestamp":"19:30:49.730","source":"Server","level":"LOG","message":"✓ Compiled in 76ms"}
+{"timestamp":"19:35:38.618","source":"Server","level":"LOG","message":"✓ Compiled in 171ms"}
+{"timestamp":"19:36:12.537","source":"Server","level":"LOG","message":"✓ Compiled in 28ms"}
+{"timestamp":"19:37:17.653","source":"Server","level":"LOG","message":"✓ Compiled in 31ms"}
+{"timestamp":"19:38:18.166","source":"Server","level":"LOG","message":"✓ Compiled in 27ms"}
+{"timestamp":"19:45:00.914","source":"Server","level":"LOG","message":"✓ Compiled in 112ms"}
+{"timestamp":"19:46:56.752","source":"Server","level":"LOG","message":"✓ Compiled in 95ms"}
+{"timestamp":"19:49:15.338","source":"Server","level":"ERROR","message":"⨯ ./src/app/page.tsx:5:1\nError: Module not found: Can't resolve '@/components/technologies'\n  3 | import Hero from \"@/components/hero\";\n  4 | import About from \"@/components/about\";\n> 5 | import Technologies from \"@/components/technologies\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  6 | import Projects from \"@/components/projects\";\n  7 | import Articles from \"@/components/articles\";\n  8 |\n\nImport map: aliased to relative './src/components/technologies' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"19:49:15.342","source":"Server","level":"ERROR","message":"⨯ ./src/app/page.tsx:5:1\nError: Module not found: Can't resolve '@/components/technologies'\n  3 | import Hero from \"@/components/hero\";\n  4 | import About from \"@/components/about\";\n> 5 | import Technologies from \"@/components/technologies\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  6 | import Projects from \"@/components/projects\";\n  7 | import Articles from \"@/components/articles\";\n  8 |\n\nImport map: aliased to relative './src/components/technologies' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"19:49:15.345","source":"Server","level":"ERROR","message":"⨯ ./src/app/page.tsx:5:1\nError: Module not found: Can't resolve '@/components/technologies'\n  3 | import Hero from \"@/components/hero\";\n  4 | import About from \"@/components/about\";\n> 5 | import Technologies from \"@/components/technologies\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  6 | import Projects from \"@/components/projects\";\n  7 | import Articles from \"@/components/articles\";\n  8 |\n\nImport map: aliased to relative './src/components/technologies' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"19:49:15.345","source":"Server","level":"ERROR","message":"⨯ ./src/app/page.tsx:5:1\nError: Module not found: Can't resolve '@/components/technologies'\n  3 | import Hero from \"@/components/hero\";\n  4 | import About from \"@/components/about\";\n> 5 | import Technologies from \"@/components/technologies\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  6 | import Projects from \"@/components/projects\";\n  7 | import Articles from \"@/components/articles\";\n  8 |\n\nImport map: aliased to relative './src/components/technologies' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"19:49:15.345","source":"Server","level":"ERROR","message":"⨯ ./src/app/page.tsx:5:1\nError: Module not found: Can't resolve '@/components/technologies'\n  3 | import Hero from \"@/components/hero\";\n  4 | import About from \"@/components/about\";\n> 5 | import Technologies from \"@/components/technologies\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  6 | import Projects from \"@/components/projects\";\n  7 | import Articles from \"@/components/articles\";\n  8 |\n\nImport map: aliased to relative './src/components/technologies' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"19:49:15.345","source":"Server","level":"ERROR","message":"⨯ ./src/app/page.tsx:5:1\nError: Module not found: Can't resolve '@/components/technologies'\n  3 | import Hero from \"@/components/hero\";\n  4 | import About from \"@/components/about\";\n> 5 | import Technologies from \"@/components/technologies\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  6 | import Projects from \"@/components/projects\";\n  7 | import Articles from \"@/components/articles\";\n  8 |\n\nImport map: aliased to relative './src/components/technologies' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"19:49:15.671","source":"Browser","level":"ERROR","message":"./src/app/page.tsx:5:1\nError: Module not found: Can't resolve '@/components/technologies'\n  3 | import Hero from \"@/components/hero\";\n  4 | import About from \"@/components/about\";\n> 5 | import Technologies from \"@/components/technologies\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  6 | import Projects from \"@/components/projects\";\n  7 | import Articles from \"@/components/articles\";\n  8 |\n\nImport map: aliased to relative './src/components/technologies' inside of [project]/\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"19:49:15.671","source":"Server","level":"ERROR","message":"[browser] \"./src/app/page.tsx:5:1\\nError: Module not found: Can't resolve '@/components/technologies'\\n  3 | import Hero from \\\"@/components/hero\\\";\\n  4 | import About from \\\"@/components/about\\\";\\n> 5 | import Technologies from \\\"@/components/technologies\\\";\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\\n  6 | import Projects from \\\"@/components/projects\\\";\\n  7 | import Articles from \\\"@/components/articles\\\";\\n  8 |\\n\\nImport map: aliased to relative './src/components/technologies' inside of [project]/\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"19:49:15.705","source":"Browser","level":"ERROR","message":"./src/app/page.tsx:5:1\nError: Module not found: Can't resolve '@/components/technologies'\n  3 | import Hero from \"@/components/hero\";\n  4 | import About from \"@/components/about\";\n> 5 | import Technologies from \"@/components/technologies\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  6 | import Projects from \"@/components/projects\";\n  7 | import Articles from \"@/components/articles\";\n  8 |\n\nImport map: aliased to relative './src/components/technologies' inside of [project]/\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"19:49:15.705","source":"Server","level":"ERROR","message":"[browser] \"./src/app/page.tsx:5:1\\nError: Module not found: Can't resolve '@/components/technologies'\\n  3 | import Hero from \\\"@/components/hero\\\";\\n  4 | import About from \\\"@/components/about\\\";\\n> 5 | import Technologies from \\\"@/components/technologies\\\";\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\\n  6 | import Projects from \\\"@/components/projects\\\";\\n  7 | import Articles from \\\"@/components/articles\\\";\\n  8 |\\n\\nImport map: aliased to relative './src/components/technologies' inside of [project]/\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"19:49:30.858","source":"Server","level":"LOG","message":"✓ Compiled in 37ms"}
+{"timestamp":"19:49:53.870","source":"Server","level":"LOG","message":"✓ Compiled in 30ms"}
+{"timestamp":"19:51:57.999","source":"Server","level":"LOG","message":"✓ Compiled in 86ms"}
+{"timestamp":"19:52:39.074","source":"Server","level":"LOG","message":"✓ Compiled in 104ms"}
+{"timestamp":"19:53:10.405","source":"Server","level":"LOG","message":"✓ Compiled in 109ms"}
+{"timestamp":"20:01:45.410","source":"Browser","level":"ERROR","message":"./src/components/projects.tsx:12:47\nError: Expected ',', got 'string literal'\n  10 |       \"Web uygulamalarındaki giriş mekanizmalarını analiz etmek ve güvenlik kontrollerini değerlendirmek için geli...\n  11 |     image: \"/images/projects/proje-1.png\",\n> 12 |     technologies: [\"Active Directory\", \"SIEM\" \"Windows Security\", \"Sysmon\", \"Wazuh\"],\n     |                                               ^^^^^^^^^^^^^^^^^^\n  13 |   },\n  14 |   {\n  15 |     number: \"02\",\n\nParsing ecmascript source code failed\n\nImport trace:\n  Server Component:\n    ./src/components/projects.tsx\n    ./src/app/page.tsx "}
+{"timestamp":"20:01:45.412","source":"Server","level":"ERROR","message":"[browser] \"./src/components/projects.tsx:12:47\\nError: Expected ',', got 'string literal'\\n  10 |       \\\"Web uygulamalarındaki giriş mekanizmalarını analiz etmek ve güvenlik kontrollerini değerlendirmek için geli...\\n  11 |     image: \\\"/images/projects/proje-1.png\\\",\\n> 12 |     technologies: [\\\"Active Directory\\\", \\\"SIEM\\\" \\\"Windows Security\\\", \\\"Sysmon\\\", \\\"Wazuh\\\"],\\n     |                                               ^^^^^^^^^^^^^^^^^^\\n  13 |   },\\n  14 |   {\\n  15 |     number: \\\"02\\\",\\n\\nParsing ecmascript source code failed\\n\\nImport trace:\\n  Server Component:\\n    ./src/components/projects.tsx\\n    ./src/app/page.tsx\" \"\""}
+{"timestamp":"20:03:39.885","source":"Server","level":"LOG","message":"✓ Compiled in 31ms"}
+{"timestamp":"20:04:43.797","source":"Server","level":"LOG","message":"✓ Compiled in 29ms"}
+{"timestamp":"20:05:21.972","source":"Server","level":"LOG","message":"✓ Compiled in 23ms"}
+{"timestamp":"20:05:22.095","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/projects/proje.png\" 404"}
+{"timestamp":"20:05:28.309","source":"Server","level":"LOG","message":"✓ Compiled in 14ms"}
+{"timestamp":"20:05:57.238","source":"Server","level":"LOG","message":"✓ Compiled in 25ms"}
+{"timestamp":"20:51:49.144","source":"Server","level":"LOG","message":"✓ Compiled in 154ms"}
+{"timestamp":"20:53:02.211","source":"Server","level":"LOG","message":"✓ Compiled in 111ms"}
+{"timestamp":"20:53:12.349","source":"Server","level":"LOG","message":"✓ Compiled in 104ms"}
+{"timestamp":"20:53:54.818","source":"Server","level":"LOG","message":"✓ Compiled in 132ms"}
+{"timestamp":"20:55:06.854","source":"Server","level":"LOG","message":"✓ Compiled in 167ms"}
+{"timestamp":"20:55:26.906","source":"Server","level":"LOG","message":"✓ Compiled in 37ms"}
+{"timestamp":"20:57:08.081","source":"Server","level":"LOG","message":"✓ Compiled in 135ms"}
