@@ -13,7 +13,6 @@ export default function Hero() {
       <div className="mx-auto max-w-[1440px] px-6 pb-16 pt-16 sm:px-10 lg:px-16 lg:pt-20">
         <div className="grid items-center gap-10 lg:grid-cols-[1.05fr_0.95fr] lg:gap-4">
 
-          {/* LEFT CONTENT */}
           <motion.div
             initial={{ opacity: 0, y: 25 }}
             animate={{ opacity: 1, y: 0 }}
@@ -56,8 +55,6 @@ export default function Hero() {
               </a>
             </div>
           </motion.div>
-
-          {/* RIGHT IMAGE */}
           <motion.div
             initial={{ opacity: 0, x: 35 }}
             animate={{ opacity: 1, x: 0 }}

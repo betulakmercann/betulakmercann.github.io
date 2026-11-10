@@ -7,7 +7,7 @@ const projects = [
     category: "BLUE TEAM RESEARCHES",
     title: "Researches",
     description:
-      "Web uygulamalarındaki giriş mekanizmalarını analiz etmek ve güvenlik kontrollerini değerlendirmek için geliştirilen bir araç.",
+      "A repository featuring various research projects and studies related to Security Operations Center (SOC) processes and operations. All studies are organized and numbered for easy navigation, with relevant screenshots provided to support the documentation.",
     image: "/images/projects/proje-5.png",
     technologies: ["Cyber Security", "SIEM", "Windows Security"],
   },
@@ -16,7 +16,7 @@ const projects = [
     category: "SIEM - BLUE TEAM",
     title: "WAZUH Home Lab",
     description:
-      "Web uygulamalarındaki endpoint yapılarını keşfetmek ve analiz sürecini kolaylaştırmak için geliştirilen bir araç.",
+      "A SIEM laboratory built using Wazuh and two separate servers: Linux and Windows Server 2025. The environment is further enhanced with Active Directory and Sysmon integrations. Various security events were simulated, while collected logs were monitored and analyzed through the Wazuh dashboard.",
     image: "/images/projects/proje-2.png",
     technologies: ["Sysmon", "Wazuh", "SIEM/XDR", "Active Directory", "Server Manager", "Linux", "Windows Server 2025"],
   },
@@ -25,7 +25,7 @@ const projects = [
     category: "NETWORK TRAFFIC ANALYSIS",
     title: "Analysis with Wireshark & Zeek",
     description:
-      "Siber güvenlik alanındaki teknik araştırmaları, uygulamalı deneyleri ve bağımsız çalışmaları kapsayan araştırma projeleri.",
+      "Network traffic analysis conducted using Wireshark and Zeek to observe network communications and protocol behavior. Pre-captured PCAP files were used to examine and analyze different network traffic scenarios.",
     image: "/images/projects/proje-3.png",
     technologies: ["Wireshark", "Zeek", "Mitre Attack"],
   },
@@ -34,7 +34,7 @@ const projects = [
     category: "SQL INJECTION",
     title: "Injecasst",
     description:
-      "Web uygulamalarındaki endpoint yapılarını keşfetmek ve analiz sürecini kolaylaştırmak için geliştirilen bir araç.",
+      "A security toolkit I developed to simplify and streamline the SQL Injection testing process. It brings together multiple analysis tools in a single interface and includes reporting capabilities, with options to export reports in different formats. The project is publicly available as open source and free to use.",
     image: "/images/projects/proje-4.png",
     technologies: ["Python", "Linux", "SQL Injection"],
   }

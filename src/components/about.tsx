@@ -32,8 +32,6 @@ export default function About() {
           className="border-t border-[#e8e4ec] pt-10 lg:pt-12"
         >
           <div className="grid gap-10 lg:grid-cols-[0.32fr_1fr] lg:gap-16">
-
-            {/* LEFT */}
             <div>
 
               <h2 className="mt-4 text-3xl font-semibold tracking-[-0.06em] text-[#17151c]">
@@ -46,7 +44,6 @@ export default function About() {
               </p>
             </div>
 
-            {/* RIGHT */}
             <div className="grid gap-x-12 gap-y-9 sm:grid-cols-2">
 
               {aboutItems.map((item, index) => (
