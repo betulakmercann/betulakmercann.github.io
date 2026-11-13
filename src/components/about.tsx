@@ -9,7 +9,7 @@ const aboutItems = [
     text: "Having built nearly two years of full-stack engineering experience by age 21, I have driven standalone projects and collaborated effectively within teams. After exploring diverse areas of software engineering, I have shifted my primary focus and technical foundation into cybersecurity.",
   },
   {
-    title: "Before from 2027",
+    title: "Before 2027",
     text: "Focusing my career trajectory on the Blue Team domain, I consistently build hands-on projects and pursue technical certifications in cyber defense. Concurrently, I am advancing my English and German skills to effectively operate in global and multi-lingual professional settings.",
   },
 

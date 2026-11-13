@@ -23,11 +23,11 @@ const projects = [
   {
     number: "03",
     category: "NETWORK TRAFFIC ANALYSIS",
-    title: "Analysis with Wireshark & Zeek",
+    title: "Analysis with Wireshark",
     description:
       "Network traffic analysis conducted using Wireshark and Zeek to observe network communications and protocol behavior. Pre-captured PCAP files were used to examine and analyze different network traffic scenarios.",
     image: "/images/projects/proje-3.png",
-    technologies: ["Wireshark", "Zeek", "Mitre Attack"],
+    technologies: ["Wireshark", "Mitre Attack"],
   },
   {
     number: "04",
@@ -52,7 +52,7 @@ export default function Projects() {
           <div>
 
             <h2 className="text-4xl font-semibold tracking-tight md:text-5xl">
-            Some of my projects
+            Selected Projects
             </h2>
           </div>
         </div>
