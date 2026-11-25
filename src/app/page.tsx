@@ -5,6 +5,7 @@ import About from "@/components/about";
 import Projects from "@/components/projects";
 import Articles from "@/components/articles";
 import Contact from "@/components/contact";
+import Featured from "@/components/featured";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
+      <Featured />
       <Projects />
       <Articles />
       <Contact />

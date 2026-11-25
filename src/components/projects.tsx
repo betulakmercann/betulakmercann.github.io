@@ -28,15 +28,6 @@ const projects = [
       "Network traffic analysis conducted using Wireshark and Zeek to observe network communications and protocol behavior. Pre-captured PCAP files were used to examine and analyze different network traffic scenarios.",
     image: "/images/projects/proje-3.png",
     technologies: ["Wireshark", "Mitre Attack"],
-  },
-  {
-    number: "04",
-    category: "SQL INJECTION",
-    title: "Injecasst",
-    description:
-      "A security toolkit I developed to simplify and streamline the SQL Injection testing process. It brings together multiple analysis tools in a single interface and includes reporting capabilities, with options to export reports in different formats. The project is publicly available as open source and free to use.",
-    image: "/images/projects/proje-4.png",
-    technologies: ["Python", "Linux", "SQL Injection"],
   }
 ];
 
